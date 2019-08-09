@@ -1,7 +1,9 @@
-## App NodeJS
+# Use GraphQL with NodeJS and React
+
+### App NodeJS
 express, express-graphql, axios, 
 
-## App React
+### App React
 react, react-apollo, graphql-tag
 
 ### Installation
